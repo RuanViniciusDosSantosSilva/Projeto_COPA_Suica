@@ -639,7 +639,7 @@ object-fit:contain;
 
 display:flex;
 
-gap:30px;
+justify-content: space-evenly;
 
 }
 
